@@ -5,7 +5,7 @@
 [Portfolio](https://pratinavchandra.github.io/) | 
 [Writeups](https://inf0spec.medium.com/)
 <br>
-<br>
+### Projects
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratinavchandra&repo=iocminer)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratinavchandra&repo=patchlog)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratinavchandra&repo=dnsmon)
