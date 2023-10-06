@@ -4,6 +4,12 @@
 ### A Security engineer who loves building and breaking stuff! <br>
 [Portfolio](https://pratinavchandra.github.io/) | 
 [Writeups](https://inf0spec.medium.com/)
+<br>
+<br>
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratinavchandra&repo=iocminer)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratinavchandra&repo=patchlog)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratinavchandra&repo=dnsmon)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pratinavchandra&repo=emojicipher)
 <!--
 **pratinavchandra/pratinavchandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
