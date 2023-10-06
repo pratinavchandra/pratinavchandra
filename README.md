@@ -1,6 +1,6 @@
 ![](https://github.com/pratinavchandra/pratinavchandra/assets/25433956/420770d7-7672-4227-aaed-8bfebc3e1359)
-<br>
-### A Security engineer who loves building and breaking stuff! <br>
+<br><br>
+<strong>A Security engineer who loves building and breaking stuff!</strong> <br>
 [Portfolio](https://pratinavchandra.github.io/) | 
 [Writeups](https://inf0spec.medium.com/)
 <br>
